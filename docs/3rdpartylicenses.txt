@@ -548,6 +548,9 @@ Exhibit B - “Incompatible With Secondary Licenses” Notice
 
 
 
+font-awesome
+(OFL-1.1 AND MIT)
+
 html-to-pdfmake
 MIT
 MIT License
